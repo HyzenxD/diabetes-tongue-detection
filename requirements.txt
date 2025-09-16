@@ -1,0 +1,45 @@
+# Core Deep Learning Frameworks
+torch>=1.12.0
+torchvision>=0.13.0
+torchaudio>=0.12.0
+
+# Computer Vision and Image Processing
+opencv-python>=4.5.0
+Pillow>=8.3.0
+scikit-image>=0.18.0
+
+# Data Science and Machine Learning
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Model Export and Deployment
+onnx>=1.12.0
+onnxruntime>=1.12.0
+
+# Jupyter and Notebook Support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+ipywidgets>=7.6.0
+
+# Progress Bars and Utilities
+tqdm>=4.62.0
+
+# Model Visualization
+tensorboard>=2.8.0
+
+# Additional Utilities
+requests>=2.25.0
+urllib3>=1.26.0
+
+# Optional: For advanced metrics and visualization
+plotly>=5.0.0
+bokeh>=2.4.0
+
+# Optional: For model optimization
+optuna>=2.10.0
+
+# Optional: For data augmentation
+albumentations>=1.1.0
